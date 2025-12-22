@@ -1,0 +1,1 @@
+sample_id,task_id,prompt_id,model_a,model_b,winner,adherence_1to5,temporal_1to5,identity_1to5,realism_1to5,edit_precision_1to5,primary_tag,secondary_tags,notes,rater_id
